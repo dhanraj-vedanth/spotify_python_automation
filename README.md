@@ -1,11 +1,14 @@
+
+
 # Spotify x Youtube Automation
 
-- Automating Youtube + Spotify to add songs to Spotify's liked list based on playlists selected
-
+> Automating Youtube + Spotify to add songs to Spotify's liked list based on playlists selected
+---
 ## Useful links: 
 
 - Youtube Data API: https://developers.google.com/youtube/v3
 - Spotify Web API: https://developer.spotify.com/documentation/web-api/
+----
 
 ## Usage: 
 
